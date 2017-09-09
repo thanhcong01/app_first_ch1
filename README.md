@@ -5,3 +5,6 @@ up demo chuong 01
 
 thacong 001111 22222
 congggg2222222222222222222
+cong1
+cong2
+congdg
